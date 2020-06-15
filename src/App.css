@@ -8,6 +8,18 @@
     transform: translate(-50%, -50%);
     border:2px solid #31ae84;
     box-shadow: 0 4px 8px 0 rgba(49, 174, 132, 0.2), 0 6px 20px 0 rgba(49, 174, 132, 0.35);
+
+
+
+    max-width: 1000px;
+    width: 100%;
+   
+    margin:0 auto;
+  
+    display: block;
+        transition: .7s;
+        height: 0px;
+        overflow: hidden;
     
     
 }
